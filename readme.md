@@ -20,6 +20,8 @@ Here are the key aspects of an Exploratory Data Analysis project:
 
 7. **Insights and Interpretation**: Drawing meaningful insights from the data exploration process and interpreting their implications in the context of the problem domain.
 
-8. **Communication**: Presenting the findings of the exploratory analysis in a clear and understandable manner through reports, visualizations, or presentations.
+   By- Manoja Krishna Damale
+
+9. **Communication**: Presenting the findings of the exploratory analysis in a clear and understandable manner through reports, visualizations, or presentations.
 
 Overall, an Exploratory Data Analysis project serves as a crucial initial step in the data analysis process, providing a foundation for more advanced analyses, such as predictive modeling or hypothesis testing, and informing decision-making in various fields, including business, healthcare, finance, and research.
